@@ -24,6 +24,8 @@ Os dados fornecidos estão divididos entre os seguintes arquivos:
 
 - **`transactional_data.csv`**: reúne mais de 2 milhões de registros de transações realizadas pelas unidades da rede. Devido ao tamanho do arquivo (acima de 100MB), ele não foi incluído diretamente no repositório do GitHub.
 
+Link dos arquivos: https://drive.google.com/drive/folders/1KnbJkQUBS0f8HysdQ2jMZduD0tWg4EUQ?usp=sharing
+
 ---
 
 
